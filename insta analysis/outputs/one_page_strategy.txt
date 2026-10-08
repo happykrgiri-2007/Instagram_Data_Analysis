@@ -1,0 +1,60 @@
+
+============================================================
+INSTAGRAM DATA ANALYSIS - ALFIDO TECH
+============================================================
+
+OBJECTIVE
+Analyze Instagram posts, engagement, hashtags, content types
+and follower signals to create a practical engagement strategy.
+
+KEY FINDINGS
+------------
+
+1. BEST CONTENT TYPE
+photo
+
+Average engagement:
+63.63
+
+2. BEST POSTING DAY
+Thursday
+
+3. TOP HASHTAG
+#delicious
+
+4. TOTAL POSTS
+257
+
+5. TOTAL LIKES
+8,782
+
+6. TOTAL COMMENTS
+7,488
+
+
+RECOMMENDED STRATEGIES
+----------------------
+
+1. Increase the use of photo content because it shows the highest observed average engagement.
+2. Prioritize the strongest-performing hashtags such as #delicious while keeping hashtags relevant to the content.
+3. Encourage comments and conversations through questions, calls-to-action and interactive captions.
+4. Monitor active follower behavior and focus content on audiences that show stronger interaction.
+5. Use the observed engagement patterns to maintain a consistent content calendar and continuously compare performance.
+
+
+CONTENT CALENDAR
+----------------
+
+     Day Recommended Content                                   Reason
+Thursday               photo Based on observed engagement performance
+
+
+IMPORTANT DATA LIMITATION
+-------------------------
+
+The supplied dataset contains limited variation in timestamp
+information. Therefore, posting-time recommendations should be
+treated as observations from the available data rather than as
+a statistically conclusive optimal posting time.
+
+============================================================

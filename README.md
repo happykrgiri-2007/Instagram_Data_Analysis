@@ -37,7 +37,7 @@ The project uses multiple CSV datasets related to:
 - NumPy
 - Matplotlib
 - VS Code
-- Git & GitHub
+- GitHub
 
 ## 📊 Analysis Performed
 
